@@ -1,0 +1,37 @@
+{
+  "name": "reactlistofpost",
+  "version": "1.0.0",
+  "description": "create a react-based web application to show a list of posts",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ankit-991/React_task.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Ankit Gurjar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankit-991/React_task/issues"
+  },
+  "homepage": "https://github.com/Ankit-991/React_task#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.38",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.4"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.21",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
